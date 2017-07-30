@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP244_w9/WS09/at-home/String.cpp
+cstring
+-
+iostream
+-
+String.h
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP244_w9/WS09/at-home/String.h
+
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP244_w9/WS09/at-home/String.h
+iostream
+-
+
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP244_w9/WS09/at-home/w9_home.cpp
+iostream
+-
+cassert
+-
+String.h
+/Users/xiaochen/Downloads/OOP244SDD_WORKS/OOP244_w9/WS09/at-home/String.h
+
